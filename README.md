@@ -1,3 +1,6 @@
+![mobile (3)](https://github.com/Keshab1113/KDMovie/assets/110785343/d14a273f-4c24-4c6c-bf34-ccd49fd72de5)
+![mobile (4)](https://github.com/Keshab1113/KDMovie/assets/110785343/6f59349e-d237-4838-8687-b42a2c04a99e)
+![Screenshot (79)](https://github.com/Keshab1113/KDMovie/assets/110785343/241a5271-0446-43d3-b269-92940fdcad9f)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
